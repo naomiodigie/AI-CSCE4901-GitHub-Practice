@@ -9,3 +9,6 @@ to practice commits, branching, and merging.
 - Initial commit: created repo and README
 - Added team and purpose sections
 - Practiced creating and merging a branch
+
+## Feature Notes
+This section was added on a separate branch to practice the branch, commit, and merge workflow.
