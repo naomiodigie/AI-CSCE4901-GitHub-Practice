@@ -8,3 +8,4 @@ to practice commits, branching, and merging.
 ## Progress Log
 - Initial commit: created repo and README
 - Added team and purpose sections
+- Practiced creating and merging a branch
