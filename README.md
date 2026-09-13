@@ -1,5 +1,5 @@
 ## Team
-CSCE 4901 Capstone AI Team
+CSCE 4901 - Capstone AI Team
 
 ## Purpose
 This repository was created as part of a GitHub/GitHub Desktop training exercise
